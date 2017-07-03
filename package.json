@@ -1,0 +1,32 @@
+{
+  "name": "exception",
+  "version": "0.0.1",
+  "description": "Extendable javascript exception class for easy declaration of custom exceptions.",
+  "main": "exception.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udantha/exception.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Exceptions",
+    "Extendable errors",
+    "Custom"
+  ],
+  "author": "Udantha Pathirana <letstalk@udantha.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udantha/exception/issues"
+  },
+  "homepage": "https://github.com/udantha/exception#readme",
+  "engines": {
+    "node": ">6.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
