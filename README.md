@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/udantha/exception.svg?branch=master)](https://travis-ci.org/udantha/exception)
+
 ## Synopsis
 
 This module provides an extendable javascript exception class for easy declaration of custom exceptions.
