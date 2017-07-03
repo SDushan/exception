@@ -1,5 +1,5 @@
 {
-  "name": "exception",
+  "name": "@udantha/exception",
   "version": "0.0.1",
   "description": "Extendable javascript exception class for easy declaration of custom exceptions.",
   "main": "exception.js",
