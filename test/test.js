@@ -13,7 +13,7 @@ describe('Check exception', () => {
     it('Should have error properties', () => {
         let exception = new Exception('Custom Error');
         expect(exception.name).to.equals('Exception');
-        expect(exception.message).to.equals('Custom Error');
+        expect(exception.message).to.equals('Custom Error TK');
         expect(exception.stack).not.to.be.empty;             
     });
 
