@@ -43,4 +43,3 @@ Import/require the class on your file and extend it. Simply throw your custom ob
 In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
 
 
-TK
