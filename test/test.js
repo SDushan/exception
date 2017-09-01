@@ -11,7 +11,7 @@ describe('Check exception', () => {
     });
 
     it('Should have error properties', () => {
-        let exception = new Exception('Custom Error #SDtrt#');
+        let exception = new Exception('Custom Error #SDtrtgh#');
         expect(exception.name).to.equals('Exception');
         expect(exception.message).to.equals('Custom Error');
         expect(exception.stack).not.to.be.empty;             
